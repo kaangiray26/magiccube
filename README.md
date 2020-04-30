@@ -1,4 +1,4 @@
-# ~ magiccube ~
+# magiccube:game_die:
 Create randomized key sequences
 ## What is a Magic cube?
 In mathematics, a magic cube is the 3-dimensional equivalent of a magic square, that is, a number of integers arranged in a n × n × n pattern such that the sums of the numbers on each row, on each column, on each pillar and on each of the four main space diagonals are equal to the same number, the so-called magic constant of the cube. [*wikipedia page!*](https://en.wikipedia.org/wiki/Magic_cube)
