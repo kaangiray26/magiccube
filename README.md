@@ -10,4 +10,4 @@ where each row and each column includes characters, which occur only once at max
 `alpha = u'0123456789'`  
 After that just run the program and specify the length of output table by giving a number.
 ## Example:
-[![asciicast](https://asciinema.org/a/325651.svg)](https://asciinema.org/a/325651)
+[![asciicast](https://asciinema.org/a/325651.svg)](https://asciinema.org/a/325651?size=medium)
