@@ -9,8 +9,9 @@ if "w32" in sys.platform:
     os.system("cls")
 else:
     os.system("clear && printf '\e[3J'")
-#alpha=u'abcçdefgğhıijklmnoöpqrsştuüvwxyzABCÇDEFGĞHIİJKLMNOÖPQRSŞTUÜVWXYZ0123456789!@#%^&*:-_+"[]/().,?= '
-alpha=u'123456789'
+    
+#STATE YOUR ALPHABET HERE using an unicode string (characters to be used)
+alpha=u'abcçdefgğhıijklmnoöpqrsştuüvwxyzABCÇDEFGĞHIİJKLMNOÖPQRSŞTUÜVWXYZ0123456789!@#%^&*:-_+"[]/().,?= '
 print "ALPHA LENGTH:",len(alpha)
 def get():
     tables=[]
